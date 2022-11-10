@@ -1,0 +1,1 @@
+Dispositif de création et d'exposition autoalimenté.
