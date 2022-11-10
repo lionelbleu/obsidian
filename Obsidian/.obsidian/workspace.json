@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test.md",
+                "file": "Projet muscle.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
+                "file": "Projet muscle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test.md",
+                "file": "Projet muscle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md"
+                "file": "Projet muscle.md"
               }
             }
           }
@@ -145,6 +145,6 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2db5b5ecb1f41b3e",
+  "active": "87337f1d73261872",
   "lastOpenFiles": []
 }
