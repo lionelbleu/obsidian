@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "421a8eff7e643fcc",
+        "id": "3ac91672de428c83",
         "type": "tabs",
         "children": [
           {
-            "id": "5befe401437e1edd",
+            "id": "cdee309560286f87",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -136,8 +136,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5befe401437e1edd",
+  "active": "cdee309560286f87",
   "lastOpenFiles": [
+    "test.md",
     "Projet muscle.md",
     "Description.md"
   ]
