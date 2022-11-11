@@ -15,7 +15,7 @@
               "state": {
                 "file": "Présentation.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -99,8 +99,8 @@
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -143,12 +143,13 @@
   },
   "active": "17eeb7bcb7c0f9a7",
   "lastOpenFiles": [
+    "Financements.md",
+    "Contacts.md",
+    "Galeries.md",
     "Présentation.md",
     "Julien Levesque.md",
     "Artistes.md",
-    "Quentin Destieu.md",
     "Albertine Meunier.md",
-    "Galeries.md",
-    "Contacts.md"
+    "Quentin Destieu.md"
   ]
 }
